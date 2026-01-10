@@ -1,6 +1,6 @@
 {
-    "name": "Helicopters Don't Swim",
+    "name": "Helicopters Can Fly",
     "uniques": [
-        "[Helicopter Gunship] units gain the [Hovering] promotion"
+        "[Helicopter] units gain the [Hovering] promotion"
     ]
 }
